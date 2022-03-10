@@ -29,6 +29,7 @@ const nums = [2, 3, 4, 5, 6];
 const map = function (array, callback) {
   const results = [];
   for (const item of array) {
+    console.log(callback)
     results.push(callback(item));
   }
   return results;
