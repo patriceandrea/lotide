@@ -1,6 +1,6 @@
 // test/assertEqualTest.js
 const assertEqual = require('../assertEqual');
-
+const head = require('../head');
 
 //TEST CODE
 assertEqual(head("Lighthouse Labs", "Bootcamp"));
