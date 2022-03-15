@@ -1,7 +1,7 @@
 {
   "name": "@patriceandrea/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lighthouse Labs Project on implementing functions similar to Lodash",
   "main": "assertArrayEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/patriceandrea/lotide.git"
   },
-  "author": "",
+  "author": "Patrice Pavico",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/patriceandrea/lotide/issues"
